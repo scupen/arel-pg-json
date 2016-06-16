@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'arel/pg_json/build_info'
 
 Gem::Specification.new do |spec|
-  spec.name          = "arel-pg-json"
+  spec.name          = "arel_pg_json"
   spec.homepage      = ''
   spec.require_paths = ['lib']
 
